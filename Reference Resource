@@ -1,0 +1,2 @@
+- Too many re-renders. React limits the number of renders to prevent an infinite loop
+    https://bobbyhadz.com/blog/react-too-many-re-renders-react-limits-the-number
